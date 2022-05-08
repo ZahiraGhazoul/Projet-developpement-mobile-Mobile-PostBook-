@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PostBook",
+    "slug": "PostBook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "PostBook.com"
+    }
+  },
+  "name": "PostBook"
+}
